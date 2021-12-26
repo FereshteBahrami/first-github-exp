@@ -12,3 +12,8 @@ img {
   width: 90%;
   border-radius: 20px;
 }
+#contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}

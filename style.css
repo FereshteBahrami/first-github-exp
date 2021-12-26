@@ -1,4 +1,12 @@
+body {
+  background: #fff9f9;
+}
 h1 {
   text-align: center;
   color: rgb(226, 43, 134);
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
 }
